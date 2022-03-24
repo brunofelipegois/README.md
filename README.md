@@ -46,19 +46,16 @@
 
 ---
 
-### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-* [Buying a car as a Data Scientist](https://towardsdatascience.com/buying-a-car-as-a-data-scientist-5a2f9f340292) 
-* [Using Data Science for Customer Acquisition](https://towardsdatascience.com/using-data-science-for-customer-acquisition-2001525792f)
-* [Tuning a Model’s Hyperparameters and Aiming for a Specific Metric in Accordance with the Business Scenario](https://towardsdatascience.com/tuning-a-models-hyperparameters-and-aiming-for-a-specific-metric-in-accordance-with-the-business-3c47d534ed3b)
 
 
 
 
 <!-- BLOG-POST-LIST:END -->
 
+---
 
+<img align="left" alt="Bruno Felipe" src="https://github-readme-stats.vercel.app/api?username=jmcabreira&show_icons=true&hide_border=true" />
 
 [medium]: https://medium.com/brunofelipegois
 [linkedin]: https://www.linkedin.com/in/brunofelipegois/
