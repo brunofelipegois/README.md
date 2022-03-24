@@ -47,8 +47,6 @@
 
 ---
 
-<img align="left" alt="Bruno Felipe" src="https://github-readme-stats.vercel.app/api?username=jmcabreira&show_icons=true&hide_border=true" />
-
 [medium]: https://medium.com/brunofelipegois
 [linkedin]: https://www.linkedin.com/in/brunofelipegois/
 [instagram]: https://instagram.com/bufelipe
