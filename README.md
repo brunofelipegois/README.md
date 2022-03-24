@@ -45,8 +45,6 @@
 
 <!-- BLOG-POST-LIST:END -->
 
----
-
 [medium]: https://medium.com/brunofelipegois
 [linkedin]: https://www.linkedin.com/in/brunofelipegois/
 [instagram]: https://instagram.com/bufelipe
