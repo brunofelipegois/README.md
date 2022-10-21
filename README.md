@@ -71,7 +71,7 @@ Gestão Ágeil:
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="Jira" width="90px" src="https://salesdorado.com/wp-content/webpc-passthru.php?src=https://salesdorado.com/wp-content/uploads/2022/07/jira-software-alternatives.jpg&nocache=1" />
+<img align="left" alt="Jira" width="80px" src="https://salesdorado.com/wp-content/webpc-passthru.php?src=https://salesdorado.com/wp-content/uploads/2022/07/jira-software-alternatives.jpg&nocache=1" />
 
 <br />
 <br />
