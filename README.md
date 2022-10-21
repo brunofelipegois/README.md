@@ -19,7 +19,7 @@ Domínio e Vivência:
  - DevOps: Docker
 
  Front - End:
- - Frameworks: Selenium, Playwright, Robot Framework, RPA
+ - Frameworks: Selenium, Playwright, Robot Framework, RPA.
  Back - End:
  - Frameworks: Postman, Rest-Assured
 Mobile:
