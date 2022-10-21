@@ -61,7 +61,7 @@ Gestão Ágeil:
 
 <img align="left" alt="JMeter" width="35px" src="https://jmeter.apache.org/images/jmeter_square.png" />
 
-<img align="left" alt="Postman" width="60px" src="https://blog.bsource.com.br/assets/img/POSTMAN.png" />
+<img align="left" alt="Postman" width="70px" src="https://blog.bsource.com.br/assets/img/POSTMAN.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
