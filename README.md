@@ -55,15 +55,15 @@ Gestão Ágeil:
 
 [<img align="left" alt="Cyprees" width="60px" src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/08/cypress-io-logo-social-share-8fb8a1db3cdc0b289fad927694ecb415.png" />](https://www.cypress.io//)
 
-<img align="left" alt="Azure" width="26px" src="https://www.parkmycloud.com/wp-content/uploads/2018/02/Azure_.png" />
+<img align="left" alt="Selenium" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png" />
 
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
+<img align="left" alt="Playwright" width="60px" src="https://itechsoul.com/wp-content/uploads/2022/08/playwright-logo.png" />
 
-<img align="left" alt="SQLServer" width="26px" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
+<img align="left" alt="SQLServer" width="40px" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
 
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
+<img align="left" alt="JMeter" width="60px" src="https://jmeter.apache.org/images/jmeter_square.png" />
 
-<img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pytorch.svg" />
+<img align="left" alt="Postman" width="60px" src="https://blog.bsource.com.br/assets/img/POSTMAN.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
