@@ -53,7 +53,7 @@ Gestão Ágeil:
 
 [<img align="left" alt="Robot Framework" width="60px" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xgrx36xi5jexzmlugxg5.png"/>](https://robotframework.org/)
 
-[<img align="left" alt="Cyprees" width="40px" src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/08/cypress-io-logo-social-share-8fb8a1db3cdc0b289fad927694ecb415.png" />](https://www.cypress.io//)
+[<img align="left" alt="Cyprees" width="60px" src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/08/cypress-io-logo-social-share-8fb8a1db3cdc0b289fad927694ecb415.png" />](https://www.cypress.io//)
 
 <img align="left" alt="Azure" width="26px" src="https://www.parkmycloud.com/wp-content/uploads/2018/02/Azure_.png" />
 
