@@ -23,6 +23,7 @@ Domínio e Vivência:
 
  Back - End:
  - Frameworks: Postman, Rest-Assured
+
 Mobile:
  - Frameworks: Appium
 
