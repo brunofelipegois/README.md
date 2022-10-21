@@ -1,20 +1,39 @@
-### Bruno Felipe - [Data Scientist]
+### Bruno Felipe - [Analista de Testes e Qualidade de Software (QA)]
 
 ##
 
-Sou um Analista de Sistema que está migrando para cientista de dados e adora alavancar soluções orientadas por dados que causam impacto nos negócios e na sociedade. Meu primeiro encontro com ciência de dados ocorreu quando eu trabalhava com CPD (Central de Processamento de Dados) no qual ajudei no desenvolvimento desse cenário na empresa.
+Desde 2017 na área de testes de software, Graduando em Analise e Desenvolvimento de Sistema, experiência com testes manuais e automatizados de desktop, web, mobile, API e micro-serviços. 
 
-Depois disso, ganhei uma bolsa de estudos (graduação) que me permitiu estudar na Ampli, em São Paulo.
+Minhas principais atuações são com planejamento e execução de Testes Manuais e Automatizados, planejamento e execução de testes manuais, desenvolvimento de testes automatizados e participação ativa nas melhorias de processo e e desenvolvimento.
 
-No momento, estou trabalhando em Quality Assurance e estudando projetos relacionados a aprendizado de máquina e ciência de dados que incluem segmentação de clientes, previsão de vendas e detecção de plágio.
+Domínio e Vivência:
+ - Domínio em testes ágeis e automação de testes
+ - Experiência em especificação de requisitos ágeis com BDD
+ - Domínio em testes de micro-serviços/back-end
+ - Experiência em testes Web, Mobile e Desktop
 
-Gosto de ajudar as pessoas no desenvolvimento pessoal e profissional, indicações de livros, aulas de informática, português, matemática e RLM 👨‍🏫
+ Automação de Testes:
+ - Stacks: Python e JavaScript
+ - Git: GitHub, GitLab
+ - Banco de Dados: SQL Server
+ - DevOps: Docker
 
-Caso precisem de alguma ajuda não hesite em pedir, até logo 👨‍💻
+ Front - End:
+ - Frameworks: Selenium, Playwright, Robot Framework, RPA
+ Back - End:
+ - Frameworks: Postman, Rest-Assured
+Mobile:
+ - Frameworks: Appium
 
-- 💻 I’m a Data Scientist
+ Testes não funcionais: 
+ - Testes de Carga: JMeter, K6
+
+Gestão Ágeil:
+ - JIRA 👨‍💻
+
+- 💻 I’m a Quality Assurance
 - 📈 I’m always learning new skills. Learning never ends !
-- 📊 I’m looking to collaborate with other Data Scientists and developers 
+- 📊 I’m looking to collaborate with other Quality Assurance and developers 
 
 ### Connect with me:
 
