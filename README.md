@@ -53,7 +53,7 @@ Gestão Ágeil:
 
 [<img align="left" alt="Robot Framework" width="60px" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xgrx36xi5jexzmlugxg5.png"/>](https://robotframework.org/)
 
-[<img align="left" alt="RPA" width="60px" src="https://i0.wp.com/mancofi.dk/wp-content/uploads/2022/05/RPA-mock-2-e1660216769787.png?resize=1536%2C1102&ssl=1"/>]
+<img align="left" alt="RPA" width="60px" src="https://i0.wp.com/mancofi.dk/wp-content/uploads/2022/05/RPA-mock-2-e1660216769787.png?resize=1536%2C1102&ssl=1"/>
 
 [<img align="left" alt="Cyprees" width="60px" src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/08/cypress-io-logo-social-share-8fb8a1db3cdc0b289fad927694ecb415.png" />](https://www.cypress.io//)
 
