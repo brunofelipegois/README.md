@@ -57,9 +57,7 @@ Gestão Ágeil:
 
 <img align="left" alt="Selenium" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png" />
 
-<img align="left" alt="Playwright" width="40px" src="https://itechsoul.com/wp-content/uploads/2022/08/playwright-logo.png" />
-
-<img align="left" alt="SQLServer" width="40px" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
+<img align="left" alt="Playwright" width="50px" src="https://itechsoul.com/wp-content/uploads/2022/08/playwright-logo.png" />
 
 <img align="left" alt="JMeter" width="35px" src="https://jmeter.apache.org/images/jmeter_square.png" />
 
