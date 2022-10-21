@@ -29,7 +29,9 @@ Mobile:
  - Testes de Carga: JMeter, K6
 
 Gestão Ágeil:
- - JIRA 👨‍💻
+ - JIRA 👨‍
+
+
 
 - 💻 I’m a Quality Assurance
 - 📈 I’m always learning new skills. Learning never ends !
